@@ -1,0 +1,6 @@
+---
+layout: post
+title: R reshape2 package usage
+---
+
+A nice [introduction into the reshape2 package by Sean Anderson](http://seananderson.ca/2013/10/19/reshape.html) describes very well the advantages of this package. Especially, if it is combined with [ggplot2](http://ggplot2.org/).
